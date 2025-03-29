@@ -5,7 +5,6 @@ certifi
 chardet
 click
 colorama
-command-not-found
 configobj
 cryptography
 cupshelpers
