@@ -1,6 +1,5 @@
 beautifulsoup4
 blinker
-Brlapi
 Brotli
 certifi
 chardet
